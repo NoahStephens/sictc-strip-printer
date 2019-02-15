@@ -13,4 +13,4 @@
             - this is also ment to be run online not in termainal
 
 
-#### Initionaly Written by Noah Stephens '19
+#### Initially Written by Noah Stephens '19
