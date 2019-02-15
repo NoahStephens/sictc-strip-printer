@@ -1,1 +1,1 @@
-// this fol
+// this folder is used for the main files of the printer driver

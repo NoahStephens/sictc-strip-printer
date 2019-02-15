@@ -10,3 +10,7 @@
             - ^^ This is a arduino gcc compiler and make file for building g code for a arduino from c or arduino lang
         - https://github.com/chilipeppr/widget-font2gcode
             - this converts the font needed into g code which will go into the letter lib
+            - this is also ment to be run online not in termainal
+
+
+## Initionaly Written by Noah Stephens '19
