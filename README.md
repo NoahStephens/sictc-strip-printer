@@ -1,5 +1,5 @@
 # sictc-strip-printer
-##Strip Printer code for teachers
+## Strip Printer code for teachers
     This is a github page for what we acomplished and what needs to be done for here on out. There is a project kanbam of what needs to be done.
 
 
